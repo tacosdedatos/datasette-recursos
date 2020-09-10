@@ -1,0 +1,5 @@
+datasette==0.48
+datasette-json-html==0.6.1
+datasette-pretty-json==0.2
+datasette-render-timestamps==1.0.1
+pocket-to-sqlite==0.2
